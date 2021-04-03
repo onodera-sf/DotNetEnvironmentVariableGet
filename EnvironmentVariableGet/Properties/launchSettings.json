@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EnvironmentVariableGet": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TEST_VALUE": "Visual Studio で実行"
+      }
+    }
+  }
+}
